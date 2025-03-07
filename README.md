@@ -1,16 +1,30 @@
-# animation1
+AnimatedPages - Custom Animated PageView in Flutter
 
-A new Flutter project.
+Overview
 
-## Getting Started
+AnimatedPages is a custom Flutter widget that enhances the default PageView with smooth up/down transitions for pages. This creates a visually engaging effect when swiping between pages.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+Custom page transition animations using Transform.translate.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Smooth scrolling experience with PageController.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dynamic movement of pages based on scroll progress.
+
+Configurable child builder for custom page UI.
+
+Installation
+
+Add this widget to your Flutter project:
+
+Copy the AnimatedPages class into your project.
+
+Use it inside your widget tree with the required parameters.
+
+License
+
+This project is open-source and available under the MIT License.
+
+⭐ Feel free to contribute or improve the widget! 🚀
+
